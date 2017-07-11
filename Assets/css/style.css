@@ -1,0 +1,70 @@
+body{
+	background-image: url(../images/background.jpg) ;
+	background-repeat: repeat-x;
+	width: 100%;
+	font-weight: bold;
+	font-family: 'Open Sans', sans-serif;
+
+}
+
+ .crystal-image {
+      width: 200px;
+      height: 200px;
+      margin-right: 10px;
+      margin-bottom: 20px;
+
+  }
+
+#crystal{
+	display: inline;
+}
+#header{
+	
+	margin-left:10px;
+	font-size: 42px;
+	padding:10px;
+	text-decoration: underline;
+	text-align: center;
+	font-family: 'Montserrat', sans-serif;
+}
+
+#instruction{
+	background-color: #fff;
+	width: 600px;
+	height: auto;
+	border: 5px solid #000;
+	margin-left: 20px;
+	margin-bottom: 20px;
+
+}
+#instruction p{
+	font-size: 20px;
+	padding-top: 15px;
+	padding-left: 15px;
+	padding-right: 15px;
+	color: #000;
+	font-weight: normal;
+	font-size: 20px;
+}
+#instruction h2{
+	text-align: center;
+	text-decoration: underline;
+	font-weight: bold;
+}
+
+.jumbotron{
+	background-image: url(../images/background.jpg);
+	width: 100%;
+	
+}
+
+.gamebox{
+	margin-left: 20px;
+	border:5px solid #000;
+	width:600px;
+	height: auto;
+	text-align: center;
+	color: #000;
+	background-color: #fff;
+	font-size: 24px;
+}
