@@ -1,9 +1,9 @@
   var targetNumber = 0;
   var imageArray = [
-  "Assets/images/bluestone.jpg",
+  "Assets/images/BlueStone.jpg",
   "Assets/images/Diamond.jpg",
-  "Assets/images/orangestone.jpg",
-  "Assets/images/yellowdiamond.jpg"
+  "Assets/images/OrangeStone.jpg",
+  "Assets/images/YellowDiamond.jpg"
 ];
 
   var wins = 0;
